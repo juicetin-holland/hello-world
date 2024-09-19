@@ -1,7 +1,7 @@
 # hello-world
 I'm gonna start from the very beginning... it is a very good place to start
 
-About @Justin.Holland
+About @Me 🧔‍♂️
 - I've been in product/software for a while
 - Life has been full on
 - Mental health & passion have been low
