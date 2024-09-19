@@ -11,5 +11,5 @@ It is time to do what... all the people are doing... and figure out a way to eng
 
 And then document the process from start to finish. Maybe it will be useful to someone? Maybe I'll find someone else's version of this along the way? Gotta get my 10,000 hours up. Just remember that when I first became a BA I was way out of my depth too. But that changes. Immersion is what is required.
 
-Step 1) This. Get into using <Github> by doing this Hello-World excercise.
+Step 1) This. Get into using <Github> by doing this Hello-World excercise ✅
 Step 2) ... 
